@@ -1,0 +1,5 @@
+#+TITLE: Ejercicios PL - Tema 7
+Ejercicios del tema 7 implementados en YACC.
+
+* Instrucciones
+Para compilar cada ejercicio, entrar en el directorio correspondiente, ejecutar ~make~ y para comprobar el resultado ~./exe < input.txt~
